@@ -2,7 +2,7 @@
   <div>
     <h2>v-bind:key</h2>
     <p>
-      <strong>Descripción:</strong> Se usa dentro de <code>v-for</code> para identificar de forma única cada elemento.
+      <strong>Función del v-blind:key:</strong> Se usa dentro de <code>v-for</code> para identificar de forma única cada elemento.
     </p>
 
     <ul>

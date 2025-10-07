@@ -2,7 +2,7 @@
   <div>
     <h2>v-show</h2>
     <p>
-      <strong>Descripción:</strong> Controla la visibilidad mediante <code>display: none</code> (el elemento sigue en el DOM).
+      <strong>Función del v-show:</strong> Controla la visibilidad mediante <code>display: none</code> (el elemento sigue en el DOM).
     </p>
 
     <button @click="mostrar = !mostrar">

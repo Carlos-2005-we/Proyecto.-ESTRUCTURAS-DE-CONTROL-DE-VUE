@@ -2,7 +2,7 @@
   <div>
     <h2>v-for</h2>
     <p>
-      <strong>Descripción:</strong> Recorre un arreglo o número para generar listas dinámicas.
+      <strong>Función del v-for:</strong> Recorre un arreglo o número para generar listas dinámicas.
     </p>
 
     <ul>
